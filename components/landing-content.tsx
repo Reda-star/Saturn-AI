@@ -19,7 +19,7 @@ const testimonials = [
     name: "Darwine Viviene",
     avatar: "D",
     title: "Designer ​🎨​",
-    description: "I love designing the ui and ux of the applications, it's my passion.",
+    description: "I love designing the ui and ux of the applications, it's my role and my passion.",
   },
   {
     name: "Ousseynou Dione",
